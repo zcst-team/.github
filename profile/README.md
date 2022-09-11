@@ -1,26 +1,8 @@
-<div align="center"><img src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/favicon.ico"></div>
-<div align="center">
-
-
-
 # Computer major learning resource library of ZCST
-
-![DataStructure](https://img.shields.io/static/v1?label=&message=DataStructure&color=brightgreen)
-![ComputerOrganization](https://img.shields.io/static/v1?label=&message=ComputerOrganization&color=blueviolet)
-![ComputerNetWork](https://img.shields.io/static/v1?label=&message=ComputerNetWork&color=blue)
-![OperatingSystem](https://img.shields.io/static/v1?label=&message=OperatingSystem&color=important)
-
-</div>
 
 本仓库主要记录了**珠海科技学院计算机专业**相关的一些课程资料、学习笔记、思维导图以及复习资料等。
 
 一些课程资料我也有上传到博客专栏里面，大家可以前往查看，地址：[https://blog.csdn.net/HXBest](https://blog.csdn.net/HXBest?_blank)
-
-|                                                              |                                                              |                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/%E7%8F%A0%E6%B5%B7%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2.jpeg" style="zoom: 33%;" /> | <img src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E7%8F%A0%E6%B5%B7%E5%AD%A6%E9%99%A2.jpeg" style="zoom:50%;" /> | <img src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2.jpg" style="zoom:23%;" /> | <img src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/favicon.ico" style="zoom:25%;" /> |
-
-
 
 ## 专业课教材
 
@@ -53,8 +35,6 @@
 |                             微信                             |                            支付宝                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://gitcode.net/HXBest/img-store/-/raw/master/qr_code/vx-pay.jpg" style="zoom:20%;" align="center" /> | <img src="https://gitcode.net/HXBest/img-store/-/raw/master/qr_code/zfb-pay.jpg" style="zoom:13%;" align="center" /> |
-
-
 
 ## ❤️ 致谢
 
