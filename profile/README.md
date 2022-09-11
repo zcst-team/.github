@@ -1,4 +1,4 @@
-<div align="center"><img style="width=100px;height=100px" src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/favicon.ico"></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/108621293?s=200&v=4"></div>
 
 # Computer major learning resource library of ZCST
 
