@@ -1,5 +1,4 @@
-<div align="center" width="100px" height="100px"><img src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/favicon.ico"></div>
-<div align="center">
+<div align="center"><img style="width=100px;height=100px" src="https://gitcode.net/HXBest/img-store/-/raw/master/zcst-team/favicon.ico"></div>
 
 # Computer major learning resource library of ZCST
 
