@@ -2,7 +2,7 @@
 
 # Computer major learning resource library of ZCST
 
-- 本仓库主要记录了**珠海科技学院·计算机专业**相关的一些课程资料、学习笔记、思维导图以及复习材料等。
+- 本仓库主要记录了**计算机专业**相关的一些课程资料、学习笔记、思维导图以及复习材料等。
 
 - 一些课程资料我也有上传到博客专栏里面，大家可以前往查看，地址：[https://blog.csdn.net/HXBest](https://blog.csdn.net/HXBest?_blank)
 
